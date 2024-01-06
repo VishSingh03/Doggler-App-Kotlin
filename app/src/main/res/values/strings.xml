@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dogglers</string>
+    <string name="dog1">Dhruv</string>
+    <string name="dog2">Harish</string>
+    <string name="dog3">Deepesh</string>
+    <string name="dog4">Vishnu</string>
+    <string name="dog5">Bhati</string>
+    <string name="a1">21</string>
+    <string name="a2">24</string>
+    <string name="a3">20</string>
+    <string name="a4">21</string>
+    <string name="a5">18</string>
+</resources>
